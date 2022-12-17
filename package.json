@@ -1,0 +1,26 @@
+{
+  "name": "backendapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnwardeenM/backendapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnwardeenM/backendapi/issues"
+  },
+  "homepage": "https://github.com/AnwardeenM/backendapi#readme",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^6.8.0",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  }
+}
